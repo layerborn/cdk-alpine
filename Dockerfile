@@ -1,5 +1,5 @@
 FROM node:lts-alpine3.12
-LABEL maintainer="layerborn@outlook.com"
+LABEL maintainer="layerborn2@gmail.com"
 ENV GLIBC_VER=2.31-r0
 
 # install glibc compatibility for alpine
