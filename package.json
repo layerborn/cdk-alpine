@@ -1,6 +1,6 @@
 {
   "name": "cdk-alpine",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Used for building applications in AWS.",
   "main": "index.js",
   "scripts": {
